@@ -1,1 +1,1 @@
-# Shruti_Kaggle
+This project contains Kaggle demos
